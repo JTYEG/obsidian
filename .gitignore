@@ -1,0 +1,11 @@
+# Generated Smart Connections / Smart Env state
+.smart-env/
+
+# Machine-local Obsidian workspace layout
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Common transient files
+.obsidian/cache/
+.DS_Store
+Thumbs.db

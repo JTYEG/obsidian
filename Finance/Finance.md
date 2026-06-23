@@ -1,0 +1,4 @@
+- we need a new car, i would love a tesla
+- we need to have a savings
+- I owe money to the CRA
+- 

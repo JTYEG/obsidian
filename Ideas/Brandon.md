@@ -1,0 +1,4 @@
+- Get him to the dentist
+- Get him to fix his gap
+- Get him to socialize more and not just have a girlfriend, she's nice but he needs to also hang wiht his friends
+- 
